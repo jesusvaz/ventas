@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ventas/static/css/main.4ebcd86c.chunk.css",
+    "main.js": "/ventas/static/js/main.19bd60cd.chunk.js",
+    "main.js.map": "/ventas/static/js/main.19bd60cd.chunk.js.map",
+    "runtime-main.js": "/ventas/static/js/runtime-main.36401825.js",
+    "runtime-main.js.map": "/ventas/static/js/runtime-main.36401825.js.map",
+    "static/js/2.a8e3b57b.chunk.js": "/ventas/static/js/2.a8e3b57b.chunk.js",
+    "static/js/2.a8e3b57b.chunk.js.map": "/ventas/static/js/2.a8e3b57b.chunk.js.map",
+    "index.html": "/ventas/index.html",
+    "precache-manifest.f074cddc3e797a763ffc36c930ec9aaa.js": "/ventas/precache-manifest.f074cddc3e797a763ffc36c930ec9aaa.js",
+    "service-worker.js": "/ventas/service-worker.js",
+    "static/css/main.4ebcd86c.chunk.css.map": "/ventas/static/css/main.4ebcd86c.chunk.css.map",
+    "static/js/2.a8e3b57b.chunk.js.LICENSE.txt": "/ventas/static/js/2.a8e3b57b.chunk.js.LICENSE.txt",
+    "static/media/shopping-bag.30f07071.svg": "/ventas/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36401825.js",
+    "static/js/2.a8e3b57b.chunk.js",
+    "static/css/main.4ebcd86c.chunk.css",
+    "static/js/main.19bd60cd.chunk.js"
+  ]
+}
